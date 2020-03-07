@@ -1,6 +1,6 @@
-# firstapp
+# My first Flutter application
 
-A new Flutter application.
+My first baby step in the learning process. 
 
 ## University Campus Survey App
 This is the first flutter application.
